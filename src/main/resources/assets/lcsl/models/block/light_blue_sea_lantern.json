@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "lcsl:blocks/light_blue_sea_lantern"
+  }
+}

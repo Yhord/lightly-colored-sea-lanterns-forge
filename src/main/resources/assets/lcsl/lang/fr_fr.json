@@ -1,0 +1,19 @@
+{
+  "itemGroup.lcsl.general": "Lightly Colored Sea Lanterns",
+  "block.lcsl.white_sea_lantern": "Lanterne aquatique blanche",
+  "block.lcsl.orange_sea_lantern": "Lanterne aquatique orange",
+  "block.lcsl.magenta_sea_lantern": "Lanterne aquatique magenta",
+  "block.lcsl.light_blue_sea_lantern": "Lanterne aquatique bleu clair",
+  "block.lcsl.yellow_sea_lantern": "Lanterne aquatique jaune",
+  "block.lcsl.lime_sea_lantern": "Lanterne aquatique vert clair",
+  "block.lcsl.pink_sea_lantern": "Lanterne aquatique rose",
+  "block.lcsl.gray_sea_lantern": "Lanterne aquatique grise",
+  "block.lcsl.light_gray_sea_lantern": "Lanterne aquatique gris clair",
+  "block.lcsl.cyan_sea_lantern": "Lanterne aquatique cyan",
+  "block.lcsl.purple_sea_lantern": "Lanterne aquatique violette",
+  "block.lcsl.blue_sea_lantern": "Lanterne aquatique bleue",
+  "block.lcsl.brown_sea_lantern": "Lanterne aquatique marron",
+  "block.lcsl.green_sea_lantern": "Lanterne aquatique verte",
+  "block.lcsl.red_sea_lantern": "Lanterne aquatique rouge",
+  "block.lcsl.black_sea_lantern": "Lanterne aquatique noire"
+}
