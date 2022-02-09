@@ -13,6 +13,6 @@ S S S
 ### Lightly Colored Sea Lanterns (Fabric)
 Lightly Colored Sea Lanterns Fabric : [GitHub repository](https://github.com/Yhord/lightly-colored-sea-lanterns)
 
-## Sea also
+## See also
 - Minecraft - [Official website](https://www.minecraft.net/)
 - Forge - [Official website](https://files.minecraftforge.net/net/minecraftforge/forge/)
